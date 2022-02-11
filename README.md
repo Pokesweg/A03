@@ -26,4 +26,9 @@ Merge Conflict - an event that occurs when Git is unable to automatically resolv
 Push - a command that is used to upload local repository content to a remote repository<br>
 Pull - a request that lets you tell others about changes you've pushed to a branch in a repository on GitHub<br>
 Remote - a common repository that all team members use to exchange their changes<br>
-Repository - a feature that contains all of your project's files and each file's revision history
+Repository - a feature that contains all of your project's files and each file's revision history<br><br>
+
+References<br>
+Intro to Github Slides by Arthur Hendela NJIT Senior University Lecturer<br>
+https://docs.github.com/en/get-started/quickstart/github-glossary#:~:text=the%20repository%20owner.-,commit,who%20made%20them%20and%20when.<br>
+https://www.atlassian.com/git/tutorials/syncing/git-fetch#:~:text=The%20git%20fetch%20command%20downloads,else%20has%20been%20working%20on.&text=This%20makes%20fetching%20a%20safe,them%20with%20your%20local%20repository.<br>
